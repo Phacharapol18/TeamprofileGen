@@ -1,0 +1,20 @@
+h1{
+    font-size: 3.5rem;
+    font-weight: 900;
+}
+.row{
+    justify-content: center;
+}
+.card{
+    margin: 15px;
+    padding: 0;
+}
+.container{
+    max-width: 100%;
+}
+.team-area{
+    justify-content: space-evenly;
+}
+.team-heading, .card-header{
+    background:linear-gradient(168deg, rgba(170,236,170,1) 0%, rgba(141,134,179,1) 45%, rgba(156,156,204,1) 100%);;
+}
